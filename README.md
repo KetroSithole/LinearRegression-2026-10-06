@@ -2,4 +2,4 @@
 
 -Mean 
 -Mode
--Mean for every Column that you can do calculations on 
+-Median for every Column that you can do calculations on 
